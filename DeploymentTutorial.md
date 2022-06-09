@@ -140,7 +140,7 @@ pip install --upgrade pip
 
 #### 通过手脚架安装nonebot
 ```cmd
-pip install nb-cil
+pip install nb-cli
 ```
 详情参见[https://v2.nonebot.dev/docs/start/installation](https://v2.nonebot.dev/docs/start/installation)
 
